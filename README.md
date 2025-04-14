@@ -2,8 +2,6 @@
 
 ## Funcionalidades  
 - Soma, subtração, multiplicação e divisão  
-- Botões com feedback visual  
-- Design responsivo  
 
 ## Tecnologias  
 - React Native  
